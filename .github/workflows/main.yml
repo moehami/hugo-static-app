@@ -1,1 +1,4 @@
-echo "Using System.AccessToken to authenticate"
+- script: echo "app location is $(Agent.BuildDirectory)
+
+
+
