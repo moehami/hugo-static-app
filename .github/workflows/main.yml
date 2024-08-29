@@ -1,0 +1,1 @@
+- script: echo "app location is $(Agent.BuildDirectory)
